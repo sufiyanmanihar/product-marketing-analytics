@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.p8
+*.pem
+*.key
+data/raw/
+data/processed/
+logs/
+.DS_Store

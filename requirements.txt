@@ -1,0 +1,9 @@
+pandas
+numpy
+pyarrow
+python-dotenv
+snowflake-connector-python[pandas]
+pytest
+scikit-learn
+matplotlib
+jupyter
